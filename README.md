@@ -1,4 +1,3 @@
-![React Native DB Models](http://i58.tinypic.com/2akiqee.png) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdarkrishabh%2Freact-native-db-models.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdarkrishabh%2Freact-native-db-models?ref=badge_shield)
 React Native DB Models
 ===================
 ![](https://travis-ci.org/darkrishabh/react-native-db-models.svg?branch=master) ![License](https://img.shields.io/badge/License-MIT-yellowgreen.svg)  [![npm version](https://badge.fury.io/js/react-native-db-models.svg)](http://badge.fury.io/js/react-native-db-models)
